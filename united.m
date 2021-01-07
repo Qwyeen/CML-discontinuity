@@ -1,4 +1,5 @@
  % Unit of time: ms
+test = 1;
 
 tProb = 2000; % theorectical max interval between 2 firing event
 p0 = 0.1; % firing probability with no influence of previous firing
