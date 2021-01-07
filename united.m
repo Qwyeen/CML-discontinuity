@@ -1,5 +1,5 @@
 % Unit of time: ms
-% add a line
+
 tProb = 2000; % theorectical max interval between 2 firing event
 p0 = 0.1; % firing probability with no influence of previous firing
 t0 = 400; % absolute refractory period
